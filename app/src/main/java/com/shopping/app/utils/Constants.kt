@@ -2,7 +2,7 @@ package com.shopping.app.utils
 
 object Constants {
 
-    const val BASE_URL = "https://fakestoreapi.com/"
+    const val BASE_URL = "https://backend-yumyard.onrender.com/"
 
     const val DATABASE_USERS_TABLE = "users"
     const val DATABASE_BASKET_TABLE = "basket"

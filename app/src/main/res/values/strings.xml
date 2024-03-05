@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Shopping App</string>
+    <string name="app_name">Yumyard</string>
 
     <!-- Onboarding Screen-->
     <string name="skip">Skip</string>
@@ -16,7 +16,7 @@
     <string name="onboarding_4_desc">Find the product, make the payment and receive it by courier.</string>
 
     <!-- Auth Screen-->
-    <string name="welcome_to_shopping_app">Welcome to Shopping App</string>
+    <string name="welcome_to_shopping_app">Welcome to Yumyard</string>
     <string name="signin">SIGN IN</string>
     <string name="signup">SIGN UP</string>
     <string name="email">Email</string>
@@ -34,7 +34,7 @@
     <string name="search">Search</string>
     <string name="profile">Profile</string>
     <string name="no_data">No data</string>
-    <string name="currency_unit">%.2f$</string>
+    <string name="currency_unit">Rs. %.2f</string>
 
     <!-- Product Details -->
     <string name="rating_count">%s Rating</string>
@@ -54,7 +54,7 @@
 
     <!-- Basket -->
     <string name="my_basket">MY BASKET</string>
-    <string name="purchase">PURCHASE (%.2f$)</string>
+    <string name="purchase">PURCHASE (Rs. %.2f)</string>
     <string name="product_reduce_message">Product reduced</string>
     <string name="product_increased_message">Product increased</string>
     <string name="product_deleted_message">Product deleted</string>
